@@ -3,3 +3,4 @@ firebase-admin
 google-auth
 google-api-python-client
 google-cloud-tasks
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
