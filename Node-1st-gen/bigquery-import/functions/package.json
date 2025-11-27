@@ -2,7 +2,7 @@
   "name": "bigquery-import-functions",
   "description": "Import data to BigQuery Firebase Functions sample",
   "dependencies": {
-    "@google-cloud/bigquery": "^4.7.0",
+    "@google-cloud/bigquery": "^7.2.0",
     "firebase-admin": "^11.9.0",
     "firebase-functions": "^4.4.1"
   },
