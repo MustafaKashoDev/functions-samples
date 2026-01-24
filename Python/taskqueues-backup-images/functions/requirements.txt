@@ -3,3 +3,4 @@ firebase-admin
 google-auth
 google-cloud-tasks
 requests
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
